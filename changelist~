@@ -1,0 +1,1 @@
+sgSlideshow_0.1 2012.04.20.zip	-	fixed callback override, mistake in $.fn._Curr => changed to $this._Curr
