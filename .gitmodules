@@ -1,6 +1,6 @@
 [submodule "sgSlider"]
 	path = sgSlider
-	url = git@github.com:c-o-s/sgSlider.git
+	url = git@github.com:siteGist/sgSlider.git
 [submodule "sgSlideshow"]
 	path = sgSlideshow
-	url = git@github.com:c-o-s/sgSlideshow.git
+	url = git@github.com:siteGist/sgSlideshow.git
